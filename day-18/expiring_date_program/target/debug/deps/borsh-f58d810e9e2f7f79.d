@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\rust\day-18\expiring_date_program\target\debug\deps\libborsh-f58d810e9e2f7f79.rmeta: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\de\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\de\hint.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\schema.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\schema_helpers.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\ser\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\ser\helpers.rs
+
+C:\Users\Admin\Desktop\rust\day-18\expiring_date_program\target\debug\deps\borsh-f58d810e9e2f7f79.d: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src/lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\de\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\de\hint.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\schema.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\schema_helpers.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\ser\mod.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\ser\helpers.rs
+
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src/lib.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\de\mod.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\de\hint.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\schema.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\schema_helpers.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\ser\mod.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.10.4\src\ser\helpers.rs:
